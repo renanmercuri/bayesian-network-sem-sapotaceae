@@ -1,0 +1,12 @@
+"Species","Path","Parameter","Estimate","SE","WaldZ","PValue"
+"Star apple","FRW -> PET","b01",0.4243,0.1307,3.2462,0.00117
+"Star apple","FRW -> PEW","b02",0.6317,0.0732,8.6341,0
+"Star apple","FRW -> FRD","b03",0.8936,0.0797,11.2177,0
+"Star apple","FRW -> FRL","b04",0.924,0.0552,16.7407,0
+"Star apple","PET -> PEW","b05",0.2851,0.0304,9.3762,0
+"Star apple","FRL -> PEW","b06",0.2052,0.072,2.8488,0.004388
+"Star apple","PEW -> FRD","b07",0.0945,0.0798,1.1848,0.2361
+"Star apple","FRD -> SEW","b08",0.57,0.1186,4.8057,1.542e-06
+"Star apple","SEW -> SED","b09",0.3929,0.1163,3.3798,0.0007254
+"Star apple","SED -> SEL","b10",0.589,0.1168,5.0451,4.534e-07
+"Star apple","FRW -> SED","b11",0.4484,0.1163,3.8567,0.0001149

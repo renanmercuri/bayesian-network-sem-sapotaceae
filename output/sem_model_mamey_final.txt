@@ -1,0 +1,18 @@
+FRW -> PET, b01, NA
+FRW -> PEW, b02, NA
+FRW -> FRD, b03, NA
+PET -> PEW, b04, NA
+FRL -> FRD, b05, NA
+PEW -> FRL, b06, NA
+FRL -> SEL, b07, NA
+SEL -> SEW, b08, NA
+SEW -> SED, b09, NA
+
+FRW <-> FRW, v01, NA
+FRL <-> FRL, v02, NA
+FRD <-> FRD, v03, NA
+PET <-> PET, v04, NA
+PEW <-> PEW, v05, NA
+SEL <-> SEL, v06, NA
+SED <-> SED, v07, NA
+SEW <-> SEW, v08, NA

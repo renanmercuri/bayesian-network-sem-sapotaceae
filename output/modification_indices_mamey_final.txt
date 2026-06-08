@@ -1,0 +1,8 @@
+
+ 5 largest modification indices, A matrix (regression coefficients):
+PET<-FRD FRL<-SED FRD<-PET SEL<-FRD FRD<-SEL 
+5.182882 4.350473 3.565669 2.941587 1.893438 
+
+  5 largest modification indices, P matrix (variances/covariances):
+SED<->FRL PET<->FRD SEL<->FRD SEW<->SED FRL<->FRW 
+ 6.234414  3.565669  1.893438  1.710487  1.701752 
